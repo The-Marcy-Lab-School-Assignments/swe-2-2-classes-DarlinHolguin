@@ -1,6 +1,7 @@
 # Short Responses
 
 For this short response assignment, aim to write a response with the following qualities (your instructor will give you feedback on these areas):
+
 - [] Addresses all parts of the prompt
 - [] Accurately uses relevant technical terminology
 - [] Is free of grammar and spelling mistakes (double check with grammarly!)
@@ -17,15 +18,13 @@ How would you explain to a budding developer what the drawbacks of using factory
 
 ## Response 1
 
-
----
+When working with OOP in JavaScrtipt, you'll come to learn that utilizing classes over something like factory functions can make life a lot simpler on not only you but also your system. Using factory functions to
 
 ## Prompt 2
 
 Explain what factors you should consider when deciding to make a property/method private? Provide an example to support your response.
 
 ## Response 2
-
 
 ---
 
